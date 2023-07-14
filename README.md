@@ -1,6 +1,7 @@
 Build a NBA Legends App using ReactJS.
 
 At the end of the project, following topics are to be covered;
+
 HTML
 
 CSS
@@ -19,3 +20,5 @@ Step 1: Create React App using npx create-react-app nba-legends
 Step 2: Build NBA Legends app using data.js, images in assets folder.
 
 Step 4: Push your application into your own public repo on Github
+
+![Nba_project](Nba_project.gif)
