@@ -1,0 +1,13 @@
+.card {
+  transition: all 1.5s;
+  &:hover {
+    scale: 0.8;
+    z-index: 2;
+    cursor: pointer;
+  }
+}
+
+ul {
+  list-style-type: none;
+  line-height: 3rem;
+}

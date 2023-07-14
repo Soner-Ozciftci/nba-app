@@ -1,0 +1,8 @@
+body {
+  background-color: yellow;
+}
+.container {
+  background-image: url(assets/foto.png);
+  /* background-repeat: no-repeat; */
+  /* background-size: cover; */
+}
